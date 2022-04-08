@@ -1,4 +1,5 @@
 name: indicadores_handson
+owner_org: fundacao-ezequiel-dias-funed
 profile: data-package
 resources:
   - dialect:
